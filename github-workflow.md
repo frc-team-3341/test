@@ -44,3 +44,7 @@ There will be a primary software lead assigned to each branch. This lead has the
 ## Software Managers
 
 These are the VP of Software, President, and Mentors. The managers will review/approve pull requests from the subsystem branches to the master branch. The master branch will be where the most recent stable robot code is located. Even if it doesn’t have all of the features, it’s guaranteed to work at any given point of time.
+
+
+
+Some changes to the code.
